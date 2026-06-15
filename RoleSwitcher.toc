@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Role Switcher
+## Notes: Auto-sets roles between Tank and DPS/Healer.
+## Author: Valdstein
+## Version: 1.9
+## SavedVariablesPerCharacter: RoleSwitcher
+
+RoleSwitcher.lua
