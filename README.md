@@ -36,7 +36,7 @@ Role Switcher runs automatically — there are no slash commands. Use the on-scr
 
 - **`C`** — open the per-level configuration panel and assign Tank / Heal / DPS to each level.
 - **`P`** — pause or resume automatic role switching.
-- Drag the widget to reposition it.
+- CTRL+Click to drag the widget to reposition it.
 
 ## Author
 
