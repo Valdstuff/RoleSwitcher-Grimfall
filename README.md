@@ -17,6 +17,12 @@ Role Switcher automatically sets your combat role (Tank, Heal, or DPS) as you le
 
 > **Note:** This addon depends on the custom `SetClasslessRole` API. It only does anything on servers that implement classless roles.
 
+## Screenshot
+
+The per-level configuration panel — set the role applied at each level for odd (O) and even (E) levels:
+
+![Role Switcher configuration panel](https://github.com/user-attachments/assets/a0cdcee6-ec3f-40e7-8f05-433514ba3cd9)
+
 ## Installation
 
 1. Download or clone this repository.
