@@ -40,7 +40,7 @@ Role Switcher runs automatically — there are no slash commands. Use the on-scr
 
 ## Author
 
-Valdstein
+Valdstein - AI was used in the creation of this addon
 
 ## License
 
